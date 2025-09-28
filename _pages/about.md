@@ -30,7 +30,7 @@ My research interests include Data-Centric AI and Embodied AI.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation.](https://neurips.cc/virtual/2025/poster/115620)
