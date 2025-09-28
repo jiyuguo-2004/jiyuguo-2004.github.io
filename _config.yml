@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiyu Guo"
   avatar           : "images/android-chrome-512x512.png"
-  chinese name     : "郭济瑜"
+  chinese-name     : "郭济瑜"
   bio              : "HITSZ"
   location         : "Guangdong, China"
   employer         :
