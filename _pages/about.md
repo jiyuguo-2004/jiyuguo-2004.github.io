@@ -24,8 +24,9 @@ My research interests include Data-Centric AI and Embodied AI.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 One paper, "Generative Data Augmentation", was accepted to NeurIPS 2025!
+- *2024.12*: &nbsp;🎉🎉 One paper, "LLM-as-a-judge", was accepted by ISSTA 2025!. 
+- *2024.05*: &nbsp;🎉🎉 One paper, "Data Agents", was accepted by ACL 2024!. 
 
 # 📝 Publications 
 
