@@ -42,6 +42,18 @@ My research interests include Data-Centric AI and Embodied AI.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Robust Coreset Selection via Class-Aware Decision Boundary Reconstruction.(Under Review, Student First Author) 
+
+Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongliang Liu, Liqiang Nie
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+- Training Data Selection. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/issta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
