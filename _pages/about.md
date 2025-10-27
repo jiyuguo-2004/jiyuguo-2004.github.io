@@ -38,7 +38,8 @@ UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adapt
 **Jiyu Guo**, Shuo Yang, Yiming Huang, Yancheng Long, Xiaobo Xia, Xiu Su, Bo Zhao, Zeke Xie, Liqiang Nie.
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- Generative Data Augmentation. 
+- Trainging Data Genaration.
+- In this paper, we pioneer a paradigm shift from intrinsic data quality to task-specific utility optimization in generative data augmentation
 </div>
 </div>
 
@@ -50,7 +51,8 @@ Robust Coreset Selection via Class-Aware Decision Boundary Reconstruction.
 Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongliang Liu, Liqiang Nie(Under Review, **Student First Author**) 
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- Training Data Selection. 
+- Training Data Selection.
+- We establish a principled coreset selection method by linking decision boundary reconstruction error to model generalization, enabling robust and efficient training data selection via decision boundary reconstruction.
 </div>
 </div>
 
@@ -62,7 +64,8 @@ Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Softw
 Ruiqi Wang, **Jiyu Guo**, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia.
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- LLM-as-a-judge. 
+- LLM-as-a-judge.
+- In this paper, we empirically explore LLM-as-a-judge methods for evaluating SE tasks, focusing on their alignment with human judgments. 
 </div>
 </div>
 
@@ -74,7 +77,8 @@ Enhancing text-to-SQL parsing through question rewriting and execution-guided re
 Wenxin Mao, Ruiqi Wang, **Jiyu Guo**, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu.
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- AI for Databases. 
+- AI for Databases.
+- We build a modular, execution-driven Text-to-SQL agent that enhances semantic alignment and query correctness via context-aware reasoning and iterative self-correction.
 </div>
 </div>
 
