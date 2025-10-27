@@ -33,7 +33,7 @@ My research interests include Data-Centric AI and Embodied AI.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation.](https://neurips.cc/virtual/2025/poster/115620)
+UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation.[PDF.](https://neurips.cc/virtual/2025/poster/115620)
 
 **Jiyu Guo**, Shuo Yang, Yiming Huang, Yancheng Long, Xiaobo Xia, Xiu Su, Bo Zhao, Zeke Xie, Liqiang Nie.
 
@@ -42,12 +42,11 @@ My research interests include Data-Centric AI and Embodied AI.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Robust Coreset Selection via Class-Aware Decision Boundary Reconstruction.(Under Review, Student First Author) 
-
-Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongliang Liu, Liqiang Nie
+Robust Coreset Selection via Class-Aware Decision Boundary Reconstruction.
+Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongliang Liu, Liqiang Nie(Under Review, **Student First Author**) 
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 - Training Data Selection. 
@@ -57,7 +56,7 @@ Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongli
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/issta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering.](https://dl.acm.org/doi/pdf/10.1145/3728963)
+Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering.[PDF.](https://dl.acm.org/doi/pdf/10.1145/3728963)
 
 Ruiqi Wang, **Jiyu Guo**, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia.
 
@@ -69,7 +68,7 @@ Ruiqi Wang, **Jiyu Guo**, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing text-to-SQL parsing through question rewriting and execution-guided refinement.](https://aclanthology.org/2024.findings-acl.120.pdf)
+Enhancing text-to-SQL parsing through question rewriting and execution-guided refinement.[PDF.](https://aclanthology.org/2024.findings-acl.120.pdf)
 
 Wenxin Mao, Ruiqi Wang, **Jiyu Guo**, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu.
 
@@ -82,7 +81,7 @@ Wenxin Mao, Ruiqi Wang, **Jiyu Guo**, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuan
 
 # 💻 Internships
 - *2023.10 - 2024.11*, Research Intern at HITSZ, advised by Prof. Cuiyun Gao.
-- *2025.01 - present*, Research Intern at HITSZ, advised by Prof. Shuo Yang.
+- *2025.01 - 2025.10*, Research Intern at HITSZ, advised by Prof. Shuo Yang.
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
