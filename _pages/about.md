@@ -19,8 +19,8 @@ redirect_from:
 
 Hi! I am Jiyu Guo(郭济瑜), a senior undergraduate student from the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), Guangdong, China.  
 My research interests lie in:
-  - **Data-Efficient AI**: Current artificial intelligence models require training on massive datasets, significantly increasing the training costs of large models. My work focuses on how to utilize data more effectively, select data more scientifically, and further enhance models with synthetic data, thereby achieving data-efficient artificial intelligence.
-  - **Efficient and Trustworthy LLM**: Large language models entail significant computational costs and face reliability challenges. I focus on improving efficiency in both training and inference, and on developing robust and aligned methods to build more reliable and trustworthy models.
+  - **Data-Efficient AI**: Current artificial intelligence models require training on massive datasets, significantly increasing the training costs of large models. My work focuses on utilizing data more efficiently, cleaning and synthesizing data more strategically, to achieve data-efficient artificial intelligence.
+  - **Efficient and Trustworthy LLM**: Large language models entail significant computational costs and face reliability challenges. I explore methods to improve training and inference efficiency in large language models, while ensuring model outputs are robust, reliable, and aligned with human expectations.
     
  <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
