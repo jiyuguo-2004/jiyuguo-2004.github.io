@@ -33,7 +33,7 @@ My research interests include Data-Centric AI and Embodied AI.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation.[PDF.](https://neurips.cc/virtual/2025/poster/115620)
+UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation. [PDF](https://raw.githubusercontent.com/jiyuguo-2004/jiyuguo-2004.github.io/main/paper/554_UtilGen_Utility_Centric_Ge.pdf) | [Link](https://neurips.cc/virtual/2025/poster/115620)
 
 **Jiyu Guo**, Shuo Yang, Yiming Huang, Yancheng Long, Xiaobo Xia, Xiu Su, Bo Zhao, Zeke Xie, Liqiang Nie.
 
@@ -59,7 +59,7 @@ Shuo Yang, **Jiyu Guo**, Yujie Wei, Ruiheng Zhang, Hongxun Yao, Ping Luo, Tongli
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/issta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering.[PDF.](https://dl.acm.org/doi/pdf/10.1145/3728963)
+Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering.[PDF](https://dl.acm.org/doi/pdf/10.1145/3728963)
 
 Ruiqi Wang, **Jiyu Guo**, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia.
 
@@ -72,7 +72,7 @@ Ruiqi Wang, **Jiyu Guo**, Cuiyun Gao, Guodong Fan, Chun Yong Chong, Xin Xia.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Enhancing text-to-SQL parsing through question rewriting and execution-guided refinement.[PDF.](https://aclanthology.org/2024.findings-acl.120.pdf)
+Enhancing text-to-SQL parsing through question rewriting and execution-guided refinement.[PDF](https://aclanthology.org/2024.findings-acl.120.pdf)
 
 Wenxin Mao, Ruiqi Wang, **Jiyu Guo**, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu.
 
