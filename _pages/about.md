@@ -33,7 +33,7 @@ My research interests include Data-Centric AI and Embodied AI.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/utilgen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation. [PDF](https://raw.githubusercontent.com/jiyuguo-2004/jiyuguo-2004.github.io/main/paper/554_UtilGen_Utility_Centric_Ge.pdf) | [Link](https://neurips.cc/virtual/2025/poster/115620)
+UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation. [PDF](https://raw.githubusercontent.com/jiyuguo-2004/jiyuguo-2004.github.io/main/paper/554_UtilGen_Utility_Centric_Ge.pdf)|[Link](https://neurips.cc/virtual/2025/poster/115620)
 
 **Jiyu Guo**, Shuo Yang, Yiming Huang, Yancheng Long, Xiaobo Xia, Xiu Su, Bo Zhao, Zeke Xie, Liqiang Nie.
 
