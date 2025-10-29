@@ -26,7 +26,7 @@ My research interests lie in:
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper, "Generative Data Augmentation", was accepted to NeurIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 One paper, "Generative Data Augmentation", was accepted by NeurIPS 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper, "LLM-as-a-judge", was accepted by ISSTA 2025. 
 - *2024.05*: &nbsp;🎉🎉 One paper, "Data Agents", was accepted by ACL 2024. 
 
