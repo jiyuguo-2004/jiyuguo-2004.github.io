@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Jiyu Guo(郭济瑜), a senior undergraduate student from the [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/), Guangdong, China.  
 My research interests lie in:
-  - **Specific Capability Enhancement for MLLM**: I am particularly interested in identifying and enhancing the underexplored yet essential capabilities of MLLM, aiming to build truly perception-cognition-action integrated intelligent systems.
+  - **Specific Capability Enhancement for MLLMs**: I am particularly interested in identifying and enhancing the underexplored yet essential capabilities of MLLMs, aiming to build truly perception-cognition-action integrated intelligent systems.
   - **Data-Efficient AI**: Current artificial intelligence models require training on massive datasets, significantly increasing the training costs of large models. My work focuses on utilizing data more efficiently, cleaning and synthesizing data more strategically, to achieve data-efficient artificial intelligence.
   
     
